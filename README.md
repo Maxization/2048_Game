@@ -1,2 +1,2 @@
 # 2048_Game
-2048 Game
+Przykładowy projekt gry "2048".
