@@ -700,7 +700,7 @@ LRESULT CALLBACK MessageWndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM l
     return 0;
 }
 
-//Check colision between two rects
+//Check collision between two rects
 bool Collision(RECT rect1, RECT rect2)
 {
     if (rect1.left < rect2.left + rect2.right - rect2.left &&
