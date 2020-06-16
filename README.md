@@ -1,2 +1,2 @@
 # 2048_Game
-Przykładowy projekt gry "2048".
+Aplikacja wzorowana na grze 2048.
